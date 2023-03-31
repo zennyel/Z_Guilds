@@ -1,0 +1,21 @@
+tag-placeholder: "&5[Z_Guilds]"
+
+#Guild MessagesConfig
+max-name-length: "{tag} §4O nome da sua guilda deve ser menor!"
+already-in-guild: "{tag} §4Você já faz parte de uma guilda, não pode criar outra!"
+guild-create-command: "{tag} §6Sua guilda foi criada com sucesso!"
+wrong-create-command: "{tag} §4Comando incorreto, use /guilda criar <nome>"
+leave-guild-message: "{tag} §6Você deixou sua guilda com sucesso"
+already-not-in-guild: "{tag} §6Você já não faz parte de nenhuma guilda!"
+
+#Invitation MessagesConfig
+invited-to-a-guild: "{tag} §6Você foi convidado para a Guilda {guild}, clique {clickable} para aceitar!"
+wrong-invite-command: "{tag} §cComando incorreto, use: /guilda convidar <jogador>."
+invitee-not-online: "{tag} §cJogador não encontrado, verifique se está online!"
+already-in-a-guild: "{tag} §cO jogador convidado já faz parte de uma guilda!"
+
+#Command MessagesConfig
+not-in-a-guild: "{tag} &4Você não faz parte de uma guilda!"
+
+#Plugin MessagesConfig
+reload-message: "{tag} &4Plugin recarregando..."

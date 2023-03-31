@@ -1,0 +1,15 @@
+name: Z_Guilds
+version: '${project.version}'
+main: com.zennyel.sao.Z_Guilds
+commands:
+  reload:
+    description: comando usado para recarregar o plugin
+  guilda:
+    description: principal comando do plugin.
+    aliases: guild
+permissions:
+  guild.use:
+    description: 'Permissão básica para uso dos comandos!'
+  guild.admin:
+    description: 'Permissão de administrador.'
+load: POSTWORLD

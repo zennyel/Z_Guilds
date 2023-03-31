@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Z_Guilds:jar">
+    <output-path>$USER_HOME$/Desktop/Servers/1.12.2/plugins</output-path>
+    <root id="archive" name="Z_Guilds.jar">
+      <element id="module-output" name="Z_Guilds" />
+    </root>
+  </artifact>
+</component>
